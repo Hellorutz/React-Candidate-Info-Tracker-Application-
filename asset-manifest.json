@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Candidate-Info-Tracker-Application/static/css/main.e1e3c2b5.css",
+    "main.js": "/React-Candidate-Info-Tracker-Application/static/js/main.ceeb7d1e.js",
+    "index.html": "/React-Candidate-Info-Tracker-Application/index.html",
+    "main.e1e3c2b5.css.map": "/React-Candidate-Info-Tracker-Application/static/css/main.e1e3c2b5.css.map",
+    "main.ceeb7d1e.js.map": "/React-Candidate-Info-Tracker-Application/static/js/main.ceeb7d1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1e3c2b5.css",
+    "static/js/main.ceeb7d1e.js"
+  ]
+}
